@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+}
+
+.wrapper{
+   
+    margin: 0 auto;
+    border: 2px solid rgb(15, 1, 1);
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    height: 150px;
+    text-align: center;
+}
+
+.time{
+    font-size: 35px;
+    padding: 12px;
+}
+
+.btn{
+    width: 180px;
+    height:80px;
+    font-size: 26px;
+    background-color: rgb(49, 105, 80);
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: rgb(74, 154, 85);
+    transition: 0.5s;
+}
+
+
